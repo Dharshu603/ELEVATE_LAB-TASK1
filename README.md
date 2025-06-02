@@ -25,6 +25,8 @@ Source: [Customer Personality Analysis](https://www.kaggle.com/datasets/imakash3
 - `cleaned_dataset.csv` – Final cleaned dataset.
 - `data_cleaning_script.py` – Python script used for cleaning.
 - `README.md` – This file.
+- Cleaned data set(/content/cleaned_dataset.csv)
+- 
 
 ## ✅ Output
 The cleaned dataset is ready for analysis, modeling, or visualization.
